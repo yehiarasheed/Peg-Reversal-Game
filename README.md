@@ -6,6 +6,7 @@ Implement a single-player board game in Haskell where the player flips the color
 
 ### Board Configuration
 The board is shaped like a '+' with the center at position (0,0). Peg positions are relative to this center.
+![image](https://github.com/yehiarasheed/Peg-Reversal-Game/assets/157399068/450db9a0-f57d-49e7-99a3-42b81d48b968)
 
 ### Rules
 1. All pegs start as black except one randomly placed white peg.
