@@ -1,4 +1,4 @@
-# Peg-Reversal-Game
+# Peg Reversal Game
 ## Project Description
 
 ### Objective
