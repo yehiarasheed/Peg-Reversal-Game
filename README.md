@@ -80,4 +80,28 @@ data State = S Move Board deriving (Eq, Show)
   > showPossibleNextStates [Peg (0,0) W, Peg (1,0) W, ...]
   Program error: No Possible States Exist.
   ```
+## How to Install
 
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yehiarasheed/Peg-Reversal-Game.git
+   cd Peg-Reversal-Game
+   ```
+   This command downloads a copy of the repository to your local machine and navigates into the project directory.
+
+2. **Install WinHugs:**
+   Download and install WinHugs from the [Haskell website](https://www.haskell.org/hugs/). WinHugs is the recommended Haskell compiler/interpreter for this project.
+
+3. **Open the Project:**
+   - Launch WinHugs.
+   - Load the project files by navigating to `File → Open` and selecting the Haskell file you want to run.
+
+## Dependencies
+
+This project requires the following dependencies:
+
+- **WinHugs**: The recommended Haskell compiler/interpreter for running the Peg Reversal Game.
+
+Ensure WinHugs is installed and properly configured on your machine to run the Haskell code in this project.
+
+---
